@@ -11,15 +11,19 @@ git status       - to get the status of the folder weither uploaded or not
 git commit -am "comment"      - to add comment it is compulsory
 
 
-steps to push the code:-
-In github->settings->developer settings->personal access token-> classic token->generate token
-on git dash => git commit -am "mandar" => git push push origin main  //here main is the branch name
+**steps to push the code:-
+ In github->settings->developer settings->personal access token-> classic token->generate token
+ git add filename => on git dash => git commit -am "mandar" => git push push origin main  //here main is the branch name
 
 token for 7 days- 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
 
-
+once done:-
 $ git config --global user.name "Mandar Bhosale"  => to get user name globally
-
 $ git config --global user.email "mandarbhosale258@gmail.com"  => to  set email
 
+git pull  =>to download from github
+
+git checkout -b branchname => to create new branch
+
+ 
 
