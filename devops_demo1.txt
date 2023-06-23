@@ -1,0 +1,9 @@
+hello everyone 
+
+
+commands:-
+
+git clone url    - clones the  depository
+git branch       - shows the branch
+git add filename - will upload the file on main branch
+git add --all    - will add all the files in folder
