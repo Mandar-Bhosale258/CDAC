@@ -13,7 +13,7 @@ git commit -am "comment"      - to add comment it is compulsory
 
 **steps to push the code:-
  In github->settings->developer settings->personal access token-> classic token->generate token
- git add filename => on git dash => git commit -am "mandar" => git push push origin main  //here main is the branch name
+ on git dash => git add filename => git commit -am "mandar" => git push origin main  //here main is the branch name
 
 token for 7 days- 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
 
@@ -23,7 +23,7 @@ $ git config --global user.email "mandarbhosale258@gmail.com"  => to  set email
 
 git pull  =>to download from github
 
-git checkout -b branchname => to create new branch
+git checkout -b branchname => to create new branch/feature branch.
 
+**pull request(to make changes in main branch from other branch)
  
-
