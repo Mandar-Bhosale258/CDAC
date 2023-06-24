@@ -26,4 +26,5 @@ git pull  =>to download from github
 git checkout -b branchname => to create new branch/feature branch.
 
 **pull request(to make changes in main branch from other branch)
- 
+
+DO ALL THE STEPS ON PUTTY. 
